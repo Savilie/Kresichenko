@@ -10,4 +10,3 @@ if num > 99 and num < 1000:
     print("Средняя цифра", middle_digit)
 else:
     print("Введите трёхзначное число!")
-
