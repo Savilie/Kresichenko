@@ -1,5 +1,5 @@
 # Дан список A размера N. Вывести его элементы в следующем порядке: A1, An, А2, An-1, А3, An-2, ...
-def print_elements_in_pattern(List):
+def print_elements_in_pattern(A):
     left = 0
     right = len(A) - 1
 
